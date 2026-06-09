@@ -1,0 +1,27 @@
+{
+  "name": "descomplica-test2",
+  "version": "1.0.0",
+  "main": "content.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dev-DeividCosta/sisyphos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dev-DeividCosta/sisyphos/issues"
+  },
+  "homepage": "https://github.com/Dev-DeividCosta/sisyphos#readme",
+  "description": "",
+  "devDependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/github": "^12.0.8",
+    "semantic-release": "^25.0.3",
+    "semantic-release-pub": "^0.10.15"
+  }
+}
